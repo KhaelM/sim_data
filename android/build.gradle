@@ -31,5 +31,6 @@ android {
 
     defaultConfig {
         minSdkVersion 23
+        namespace 'com.vincentkammerer.sim_data'  // Mets ici le package réel du module
     }
 }
